@@ -1,2 +1,8 @@
 // Prompt para modificar menu de los juegos
 Hola continuemos con el proyecto de los dos juegos, ahora tengo que crear como un tipo menu para presentar los dos juegos, ya te paso las instrucciones, ya tengo la base del html, no olvides actuar en base a los parámetros iniciales de como actuar.
+
+// Prompt para cambiar el fondo
+Si me agraga como quedó, similar al mismo diseño de los dos juegos, para tener una misma línea gráfica de diseño, buen trabajo, por dejemos así para luego ver si realizamos algún cambio adicional, ahora ayudame generando la imagen para el background basándote igual en el requerimiento del estilo que estamos llevando.
+
+// Prompt para realizar otro arreglo en el footer
+Ahora me gustaría agregar en la parte del footer, lo que siempre va de copyrigth.....
