@@ -1,0 +1,2 @@
+// Prompt para modificar menu de los juegos
+Hola continuemos con el proyecto de los dos juegos, ahora tengo que crear como un tipo menu para presentar los dos juegos, ya te paso las instrucciones, ya tengo la base del html, no olvides actuar en base a los parámetros iniciales de como actuar.
